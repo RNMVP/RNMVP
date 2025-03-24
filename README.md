@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is renan and I'm a a webdeveloper, from Brazil</h2>
+<h2 align="left">Hi 👋! My name is renan and I'm a software engineer</h2>
 <ul>
     <li>
         🔭 I’m currently working on freelancer and own projects
